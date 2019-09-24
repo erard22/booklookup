@@ -1,4 +1,4 @@
-#Goodread rating lookup
+# Goodread rating lookup
 
 Searches for the corresponding rating on https://www.goodreads.com/.
 
